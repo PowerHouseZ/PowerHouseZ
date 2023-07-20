@@ -10,7 +10,7 @@ ___
  ### Projects that are currently being worked on 🔭
 
  
-These are the coding languages and number of projects that I am currently working on at the moment that will eventually be uploaded on GitHub
+These are the coding languages and number of projects that I am currently working on at the moment that will eventually be uploaded on GitHub.
 
 
  |React.js|Python|C++|C#|Java|MySQL|
