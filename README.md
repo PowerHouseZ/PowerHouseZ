@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Welcome to my GitHub page! 
+### Welcome to the PowerHouseZ GitHub page! 
 <p>
   <img src= "https://cdn.dribbble.com/users/1454037/screenshots/5360175/apartments-animated-dribbler-bottom.gif" width="900" height="400">
 </p>
