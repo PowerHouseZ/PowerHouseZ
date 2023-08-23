@@ -19,7 +19,7 @@ Here, you'll find projects I'm currently working on, each based on different cod
 
 |React.js|Python|C++|C#|Java|MySQL|
 |---|---|---|---|---|--|
-|3|1|0|0|2|1|
+|1|0|0|0|0|2|
  ___
 
  ### What I’m currently learning 🌱 
