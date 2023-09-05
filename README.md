@@ -11,23 +11,6 @@ Thank you for viewing my GitHub page, and I look forward to building something i
 ### Happy coding 🚀! 
 ___
 
- ### Projects that are currently being worked on 🔭
-
- 
-Here, you'll find projects I'm currently working on, each based on different coding languages. These projects are still in development and will soon be uploaded to GitHub, where they will be available for public access and contribution.
-
-
-|React.js|Python|C++|C#|Java|MySQL|
-|---|---|---|---|---|--|
-|1|0|0|0|0|2|
- ___
-
- ### What I’m currently learning 🌱 
-
-- React.js
-- Python
-- MySQL
-
 <!--
 
 
