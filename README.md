@@ -7,10 +7,6 @@ This space is where I explore programming concepts, build practical tools, and e
 Thanks for stopping by — and feel free to explore, fork, or contribute.
 
 Happy coding 🚀
-
-<p>
-  <img src= "https://cdn.dribbble.com/users/1454037/screenshots/5360175/apartments-animated-dribbler-bottom.gif" width="900" height="400">
-</p>
 ___
 
 <!--
